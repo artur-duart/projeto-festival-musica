@@ -1,1 +1,1 @@
-# projeto-festival-musica
+# Projeto - Festival de Música
